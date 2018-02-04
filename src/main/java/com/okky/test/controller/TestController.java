@@ -23,7 +23,7 @@ public class TestController {
 		
 		
 		
-		System.out.println("Ä¿¹Ô ½ÇÇè¿ë");
+		System.out.println("Ä¿¹Ô ½ÇÇè¿ë");//asdfasdfasdfasdfasdfasdfa
 	}
 	
 }
