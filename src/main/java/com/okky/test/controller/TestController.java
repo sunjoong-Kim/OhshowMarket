@@ -20,6 +20,10 @@ public class TestController {
 		TestVO vo = new TestVO();
 		vo.setTt("TEST");
 		dao.insertTest(vo);
+		
+		
+		
+		System.out.println("Ä¿¹Ô ½ÇÇè¿ë");
 	}
 	
 }
