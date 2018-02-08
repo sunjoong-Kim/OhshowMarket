@@ -1,4 +1,4 @@
-package com.okky.test.controller;
+package com.okky.web.controller;
 
 import javax.inject.Inject;
 
@@ -6,8 +6,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.okky.test.dao.TestDAO;
-import com.okky.test.domain.TestVO;
+import com.okky.web.dao.TestDAO;
+import com.okky.web.domain.TestVO;
 
 @Controller
 public class TestController {

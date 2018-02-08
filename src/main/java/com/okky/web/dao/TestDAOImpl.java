@@ -1,11 +1,11 @@
-package com.okky.test.dao;
+package com.okky.web.dao;
 
 import javax.inject.Inject;
 
 import org.apache.ibatis.session.SqlSession;
 import org.springframework.stereotype.Repository;
 
-import com.okky.test.domain.TestVO;
+import com.okky.web.domain.TestVO;
 
 @Repository
 public class TestDAOImpl implements TestDAO {

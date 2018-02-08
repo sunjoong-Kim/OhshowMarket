@@ -4,5 +4,14 @@
   "http://mybatis.org/dtd/mybatis-3-config.dtd">
 
 <configuration>
+	<settings>
+		<setting name="mapUnderscoreToCamelCase" value="true"></setting>
+	</settings>
+<!-- 	<typeAliases> -->
+<!-- 		<typeAlias type="kr.ac.library.model.User" alias="User" /> -->
+<!-- 	</typeAliases> -->
 
+<!-- 	<mappers> -->
+<!-- 		<mapper resource="mybatis/seat.xml" /> -->
+<!-- 	</mappers> -->
 </configuration>

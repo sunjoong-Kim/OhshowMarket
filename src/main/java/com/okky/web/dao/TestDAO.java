@@ -1,6 +1,6 @@
-package com.okky.test.dao;
+package com.okky.web.dao;
 
-import com.okky.test.domain.TestVO;
+import com.okky.web.domain.TestVO;
 
 public interface TestDAO {
 	

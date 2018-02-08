@@ -1,4 +1,4 @@
-package com.okky.test.domain;
+package com.okky.web.domain;
 
 public class TestVO {
 	
